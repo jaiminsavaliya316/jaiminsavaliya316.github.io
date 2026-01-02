@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.07a15d96.css",
-    "main.js": "/static/js/main.3eae01b6.js",
+    "main.js": "/static/js/main.afe07759.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/movie_home_screen.png": "/static/media/movie_home_screen.d908549d4f7e93b2db08.png",
+    "static/media/movie_home_screen_fav.png": "/static/media/movie_home_screen_fav.9a1f039001cb32848337.png",
     "static/media/hello_op.png": "/static/media/hello_op.ee327d36a6a5eb196b6f.png",
     "static/media/wait_op.png": "/static/media/wait_op.5102f1da9a3e109f661a.png",
     "static/media/Time_clockes.png": "/static/media/Time_clockes.78701471c9378ce42435.png",
+    "static/media/movie_page_with_cast.png": "/static/media/movie_page_with_cast.0046d3f321666fac2767.png",
     "static/media/Past_time.png": "/static/media/Past_time.ceba2f9acf94ffabb96c.png",
     "static/media/Future_time.png": "/static/media/Future_time.4d1dc3ab22f6393232df.png",
     "static/media/DAA img.png": "/static/media/DAA img.fad15c7617e85085126d.png",
@@ -16,6 +19,7 @@
     "static/media/courseera ML certificate img.png": "/static/media/courseera ML certificate img.0d161e121a7ea283c28f.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/ptrs_1.png": "/static/media/ptrs_1.24f46f3b32df9bf40650.png",
+    "static/media/movie_search_screen.png": "/static/media/movie_search_screen.6469e8c33223134cff93.png",
     "static/media/Kambaz_2_dashboard.png": "/static/media/Kambaz_2_dashboard.bfa42c1ad68ec408c21e.png",
     "static/media/Kambaz_3_course_view.png": "/static/media/Kambaz_3_course_view.428faf8c6881635d2a7c.png",
     "static/media/portland_travel_time_complexity_analysis.png": "/static/media/portland_travel_time_complexity_analysis.6f8d562621f8fd6f3f4a.png",
@@ -26,6 +30,7 @@
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/POCAI_1.png": "/static/media/POCAI_1.32b14972b75a4d51e568.png",
     "static/media/NU_RGB_seal_R.png": "/static/media/NU_RGB_seal_R.fb9e9692319ded9b3ae3.png",
+    "static/media/movie_other_u_profile.png": "/static/media/movie_other_u_profile.b15e67ab1e9a35cee923.png",
     "static/media/It_is_logo_of_LDRP.png": "/static/media/It_is_logo_of_LDRP.5b67ed61a494b72768ff.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/POCAI_3.png": "/static/media/POCAI_3.ea0964f4ef0f761785cc.png",
@@ -37,7 +42,7 @@
     "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/index.html",
     "main.07a15d96.css.map": "/static/css/main.07a15d96.css.map",
-    "main.3eae01b6.js.map": "/static/js/main.3eae01b6.js.map",
+    "main.afe07759.js.map": "/static/js/main.afe07759.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -45,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.07a15d96.css",
-    "static/js/main.3eae01b6.js"
+    "static/js/main.afe07759.js"
   ]
 }
